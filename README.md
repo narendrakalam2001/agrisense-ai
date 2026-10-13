@@ -75,9 +75,9 @@ Per-class precision / recall / F1 for **all 38 classes** (including the weakest)
 
 | Service | URL |
 |---|---|
-| 🚀 **FastAPI (Swagger UI)** | `http://localhost:8000/docs` when running locally · 🚧 *Render deployment pending — add URL here* |
-| 🌾 **Farmer Portal (Streamlit)** | `http://localhost:8501` when running locally · 🚧 *Streamlit Cloud deployment pending — add URL here* |
-| 📓 **EDA & Training Notebook** | [notebooks/agrisense_ai_eda.ipynb](notebooks/agrisense_ai_eda.ipynb) |
+| 🌾 **Farmer Portal (Streamlit)** |[https://agrisense-ai-dashboard.streamlit.app](https://agrisense-ai-dashboard.streamlit.app) |
+| 🚀 **FastAPI (Swagger UI)** | Hosted deployment is not available. Local / Docker: `python scripts/run_api.py` → `http://localhost:8000/docs` (The Render Blueprint is included in the repository, but a plan with at least 2 GB RAM is required) |
+| 📓 **EDA Notebook** | [notebooks/agrisense_ai_eda.ipynb](notebooks/agrisense_ai_eda.ipynb) |
 | 🧠 **Model Card** | [models/model_card.json](models/model_card.json) |
 
 ---
@@ -601,7 +601,20 @@ External services (Gemini, OpenWeatherMap, the embedding model download) are moc
 | 11 | BC5CDR Clinical NER | Biomedical NLP | BioBERT | F1 = 0.8847 · Chemical F1 = 0.9239 |
 | 12 | News Topic Modeling | Media Analytics | LDA (Gensim) | Cv = 0.6225 · Diversity = 0.92 |
 | 13 | Chest X-Ray Diagnosis | Healthcare AI | DenseNet121 | Mean AUC = 0.7864 · 14 classes |
-| 14 | **AgriSense AI** | **AgriTech** | **EfficientNetB3** | **Accuracy = 98.44% · Macro-F1 = 0.9843 · 38 classes** |
+| 14 | Real-Time Object Detection | Computer Vision / Retail-Security | YOLOv8s | mAP50-95 = 0.5341 · 32 FPS |
+| 15 | Face Emotion Recognition | EdTech / Retail CX | CNN-from-scratch | Macro-F1 = 0.5950 · 7 classes |
+| 16 | Customer Segmentation Engine | E-Commerce / BFSI | DBSCAN (Unsupervised) | Silhouette = 0.4056 |
+| 17 | Market Basket Analysis (Instacart) | Retail / Quick-Commerce | Apriori | 68,820 rules · mean lift = 15.66 |
+| 18 | E-Commerce / OTT Recommender | E-Commerce / Streaming | Hybrid (SVD + Content) | NDCG@10 = 0.0407 · 4 candidates |
+| 19 | Hospital Readmission Prediction | Healthcare / Hospital Ops | ExtraTrees | F1 = 0.2702 · ROC-AUC = 0.6513 |
+| 20 | HR Policy Intelligence Chatbot | HR Tech / Enterprise GenAI | Gemini 3.6 Flash + RAG | 30/30 tests · guardrail threshold=0.35 |
+| 21 | Employee Attrition Prediction | HR Tech / People Analytics | NeuralNet (MLP) | F1 = 0.3902 · ROC-AUC = 0.6698 |
+| 22 | ANN From Scratch — MNIST Digit Recognizer | Deep Learning Fundamentals | From-scratch ANN | Test Acc = 0.9740 · Macro F1 = 0.9739 |
+| 23 | Insurance Premium Prediction | Insurance / Actuarial ML | RandomForest | RMSLE = 1.1586 · 1.2M real policies |
+| 24 | Health Insurance Cross-Sell | Insurance / BFSI | ExtraTrees | ROC-AUC = 0.8404 · 67.8% calls saved |
+| 25 | Ride Fare Price Prediction | Mobility / Ride-Hailing | LightGBM | RMSE = $3.81 · R² = 0.8419 · 55M rows |
+| 26 | E-Commerce BI & SQL Analytics | Retail Analytics / BI | SQL + FastAPI + Streamlit | 40 tests passing · 100K orders |
+| 27 | **AgriSense AI** | **AgriTech** | **EfficientNetB3** | **Accuracy = 98.44% · Macro-F1 = 0.9843 · 38 classes** |
 
 ---
 

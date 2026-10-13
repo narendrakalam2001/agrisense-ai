@@ -1,0 +1,26 @@
+# Lean RUNTIME dependencies for deployment (Render Docker image + Streamlit Cloud).
+# Training / EDA extras (matplotlib, seaborn, scikit-learn, jupyter, reportlab, ...)
+# stay in the full requirements.txt used for local development.
+#
+# CPU-only PyTorch (sentence-transformers needs torch) — avoids multi-GB CUDA wheels.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+tensorflow==2.16.1
+keras==3.12.4
+numpy==1.26.4
+Pillow==10.4.0
+opencv-python-headless==4.10.0.84
+python-dotenv==1.0.1
+
+chromadb==0.5.5
+sentence-transformers==3.0.1
+tf-keras==2.16.0
+pypdf==4.3.1
+
+google-genai==0.3.0
+requests==2.32.3
+
+fastapi==0.111.1
+uvicorn[standard]==0.30.3
+python-multipart==0.0.9
+streamlit==1.37.0

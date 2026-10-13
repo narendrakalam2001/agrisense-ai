@@ -1,0 +1,648 @@
+{
+  "Apple___Apple_scab": {
+    "immediate_action_en": "Remove fallen leaves and infected fruit from the orchard floor to reduce overwintering spores.",
+    "immediate_action_hi": "सर्दियों में बीजाणुओं को कम करने के लिए बाग की जमीन से गिरी पत्तियाँ और संक्रमित फल हटाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Mancozeb 75% WP",
+      "brand_examples": "Dithane M-45, Indofil M-45",
+      "dosage": "2.5 g per litre of water",
+      "frequency": "Every 10-14 days during wet spring weather, 3-4 sprays",
+      "safety_en": "Wear gloves and mask while spraying; avoid spraying before rain; re-entry after 24 hours.",
+      "safety_hi": "छिड़काव करते समय दस्ताने और मास्क पहनें; बारिश से पहले छिड़काव न करें; 24 घंटे बाद ही खेत में प्रवेश करें।"
+    },
+    "organic_alternative_en": "Sulfur-based fungicide spray (wettable sulfur, 2-3 g/litre) applied at 7-10 day intervals.",
+    "organic_alternative_hi": "गंधक आधारित फफूंदनाशक (वेटेबल सल्फर, 2-3 ग्राम/लीटर) 7-10 दिन के अंतराल पर छिड़कें।",
+    "prevention_en": "Plant scab-resistant apple varieties, prune for good air circulation, apply protective fungicide sprays starting at green-tip stage.",
+    "prevention_hi": "पपड़ी-प्रतिरोधी सेब किस्में लगाएँ, अच्छी हवा के लिए छंटाई करें, हरे-सिरे की अवस्था से सुरक्षात्मक फफूंदनाशक छिड़कें।",
+    "estimated_recovery": "New growth should be clean within 2-3 weeks of consistent spray schedule; existing lesions do not heal."
+  },
+  "Apple___Black_rot": {
+    "immediate_action_en": "Prune out and burn cankered branches and mummified fruit immediately.",
+    "immediate_action_hi": "कैंकर वाली शाखाओं और ममीकृत फलों को तुरंत काटकर जला दें।",
+    "chemical_treatment": {
+      "pesticide_name": "Captan 50% WP",
+      "brand_examples": "Captaf",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 10-14 days from petal fall through summer",
+      "safety_en": "Avoid inhalation, wash hands thoroughly after handling, keep away from water bodies.",
+      "safety_hi": "साँस के जरिए अंदर जाने से बचें, संभालने के बाद हाथ अच्छी तरह धोएँ, जल स्रोतों से दूर रखें।"
+    },
+    "organic_alternative_en": "Copper oxychloride spray (3 g/litre) as a protective measure before infection periods.",
+    "organic_alternative_hi": "संक्रमण अवधि से पहले सुरक्षात्मक उपाय के रूप में कॉपर ऑक्सीक्लोराइड (3 ग्राम/लीटर) छिड़कें।",
+    "prevention_en": "Remove nearby wild/abandoned apple trees, prune for airflow, sanitize pruning tools between cuts.",
+    "prevention_hi": "आस-पास के जंगली/परित्यक्त सेब के पेड़ हटाएँ, हवा के लिए छंटाई करें, कटाई के औजारों को हर बार साफ करें।",
+    "estimated_recovery": "Cankers do not heal — focus is on stopping spread; new fruit set can be protected within one season."
+  },
+  "Apple___Cedar_apple_rust": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Myclobutanil 10% WP",
+      "brand_examples": "Systhane",
+      "dosage": "1 g per litre of water",
+      "frequency": "Every 10 days from pink-bud stage through 3 weeks after petal fall",
+      "safety_en": "Follow pre-harvest interval on the label; avoid spraying during bee foraging hours.",
+      "safety_hi": "लेबल पर दिए गए कटाई-पूर्व अंतराल का पालन करें; मधुमक्खी सक्रियता के समय छिड़काव न करें।"
+    },
+    "organic_alternative_en": "Sulfur spray (2-3 g/litre) applied protectively before rust spore release in spring.",
+    "organic_alternative_hi": "वसंत में रस्ट बीजाणु फैलने से पहले सुरक्षात्मक रूप से गंधक का छिड़काव (2-3 ग्राम/लीटर) करें।",
+    "prevention_en": "Remove nearby juniper/cedar trees within a 1.5 km radius where feasible; plant rust-resistant apple cultivars.",
+    "prevention_hi": "जहाँ संभव हो 1.5 किमी दायरे में देवदार के पेड़ हटाएँ; रस्ट-प्रतिरोधी सेब किस्में लगाएँ।",
+    "estimated_recovery": "2-3 weeks for new growth to remain clean after spray program begins."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Sulfur 80% WDG",
+      "brand_examples": "Kumulus DF",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 7-10 days once symptoms appear",
+      "safety_en": "Do not spray in temperatures above 32°C to avoid leaf scorch; avoid mixing with oil-based sprays.",
+      "safety_hi": "पत्ती जलने से बचाने के लिए 32°C से अधिक तापमान में छिड़काव न करें; तेल आधारित छिड़काव के साथ न मिलाएँ।"
+    },
+    "organic_alternative_en": "Neem oil spray (5 ml/litre) every 7 days, or potassium bicarbonate spray.",
+    "organic_alternative_hi": "नीम तेल का छिड़काव (5 मिली/लीटर) हर 7 दिन में करें, या पोटेशियम बाइकार्बोनेट का छिड़काव करें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "New growth clean within 2 weeks of starting treatment."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Azoxystrobin 23% SC",
+      "brand_examples": "Amistar",
+      "dosage": "1 ml per litre of water",
+      "frequency": "At tasseling stage, repeat after 15 days if humid conditions persist",
+      "safety_en": "Rotate fungicide chemistry between seasons to avoid resistance buildup.",
+      "safety_hi": "प्रतिरोध बनने से बचने के लिए हर मौसम में फफूंदनाशक का प्रकार बदलते रहें।"
+    },
+    "organic_alternative_en": "Trichoderma viride-based bio-fungicide seed/soil treatment combined with residue management.",
+    "organic_alternative_hi": "ट्राइकोडर्मा विरिडी आधारित जैव-फफूंदनाशक बीज/मृदा उपचार अवशेष प्रबंधन के साथ करें।",
+    "prevention_en": "Rotate away from corn for 1 year, plow under crop residue, choose resistant hybrids.",
+    "prevention_hi": "1 साल तक मक्का न लगाएँ, फसल अवशेष जोतकर मिट्टी में मिलाएँ, प्रतिरोधी संकर किस्में चुनें।",
+    "estimated_recovery": "Damage to existing leaves is permanent; protects new growth within days of spray."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Mancozeb 75% WP",
+      "brand_examples": "Dithane M-45",
+      "dosage": "2.5 g per litre of water",
+      "frequency": "Every 10 days if pustules are actively spreading",
+      "safety_en": "Wear a mask during application; wash exposed skin after spraying.",
+      "safety_hi": "छिड़काव के दौरान मास्क पहनें; छिड़काव के बाद खुली त्वचा को धोएँ।"
+    },
+    "organic_alternative_en": "Sulfur dust application at early pustule stage.",
+    "organic_alternative_hi": "फफोले की शुरुआती अवस्था में गंधक पाउडर का प्रयोग करें।",
+    "prevention_en": "Plant rust-resistant hybrids, avoid very early or very late planting dates in high-risk zones.",
+    "prevention_hi": "रस्ट-प्रतिरोधी संकर किस्में लगाएँ, उच्च जोखिम वाले क्षेत्रों में बहुत जल्दी या बहुत देर से बुवाई से बचें।",
+    "estimated_recovery": "Rust rarely kills the plant; yield protected if treated before tasseling."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Propiconazole 25% EC",
+      "brand_examples": "Tilt",
+      "dosage": "1 ml per litre of water",
+      "frequency": "At first sign of lesions, repeat after 14 days",
+      "safety_en": "Do not exceed 2 sprays per season on the same field to limit resistance risk.",
+      "safety_hi": "प्रतिरोध जोखिम सीमित करने के लिए एक ही खेत में सीजन में 2 से अधिक छिड़काव न करें।"
+    },
+    "organic_alternative_en": "Residue incorporation plus Trichoderma-based soil treatment to reduce inoculum.",
+    "organic_alternative_hi": "इनोकुलम कम करने के लिए अवशेष मिट्टी में मिलाएँ और ट्राइकोडर्मा आधारित मृदा उपचार करें।",
+    "prevention_en": "Use resistant hybrids, rotate crops, till under residue after harvest.",
+    "prevention_hi": "प्रतिरोधी संकर किस्में उपयोग करें, फसल चक्र अपनाएँ, कटाई के बाद अवशेष जोतकर मिलाएँ।",
+    "estimated_recovery": "Existing lesions permanent; new leaf growth protected within 1-2 weeks."
+  },
+  "Grape___Black_rot": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Myclobutanil 10% WP",
+      "brand_examples": "Systhane",
+      "dosage": "1 g per litre of water",
+      "frequency": "Every 10-14 days from bud break through veraison",
+      "safety_en": "Observe pre-harvest interval printed on the product label before picking fruit.",
+      "safety_hi": "फल तोड़ने से पहले उत्पाद लेबल पर दिए गए कटाई-पूर्व अंतराल का पालन करें।"
+    },
+    "organic_alternative_en": "Copper-based fungicide (Bordeaux mixture, 1%) applied protectively before rain events.",
+    "organic_alternative_hi": "बारिश से पहले सुरक्षात्मक रूप से कॉपर आधारित फफूंदनाशक (बोर्डो मिश्रण, 1%) छिड़कें।",
+    "prevention_en": "Remove mummified berries and infected canes during dormant pruning, improve canopy airflow.",
+    "prevention_hi": "सुप्त छंटाई के दौरान ममीकृत जामुन और संक्रमित बेलें हटाएँ, छत्र में हवा का प्रवाह बढ़ाएँ।",
+    "estimated_recovery": "New clusters protected within days; infected fruit cannot recover."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "immediate_action_en": "There is no curative chemical spray — remove and destroy severely affected vines/wood to limit spread.",
+    "immediate_action_hi": "कोई उपचारात्मक रासायनिक छिड़काव नहीं है — फैलाव रोकने के लिए गंभीर रूप से प्रभावित बेलें/लकड़ी हटाकर नष्ट करें।",
+    "chemical_treatment": {
+      "pesticide_name": "No effective curative fungicide",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "Sanitize pruning tools with 10% bleach solution between vines to prevent spread.",
+      "safety_hi": "फैलाव रोकने के लिए बेलों के बीच कटाई के औजारों को 10% ब्लीच घोल से साफ करें।"
+    },
+    "organic_alternative_en": "Trunk renewal (retraining a new trunk from a sucker) on partially affected vines.",
+    "organic_alternative_hi": "आंशिक रूप से प्रभावित बेलों पर तने का नवीनीकरण (सकर से नया तना विकसित करना) करें।",
+    "prevention_en": "Avoid pruning wounds during wet weather, apply wound-sealant paste, use certified disease-free planting material.",
+    "prevention_hi": "नम मौसम में छंटाई के घाव से बचें, घाव-रोधी पेस्ट लगाएँ, प्रमाणित रोगमुक्त रोपण सामग्री उपयोग करें।",
+    "estimated_recovery": "Chronic disease — management reduces spread rather than curing existing vines."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Mancozeb 75% WP",
+      "brand_examples": "Dithane M-45",
+      "dosage": "2.5 g per litre of water",
+      "frequency": "Every 10-14 days during humid periods",
+      "safety_en": "Ensure full leaf coverage including undersides during spraying.",
+      "safety_hi": "छिड़काव करते समय पत्ती की निचली सतह सहित पूरी पत्ती को ढकें।"
+    },
+    "organic_alternative_en": "Copper oxychloride spray (3 g/litre) at 10-day intervals.",
+    "organic_alternative_hi": "10 दिन के अंतराल पर कॉपर ऑक्सीक्लोराइड (3 ग्राम/लीटर) छिड़कें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "New leaves protected within 1-2 weeks of consistent spraying."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "immediate_action_en": "There is no cure once a tree is infected. Get the tree tested/confirmed by your local agriculture extension office, then remove and destroy (uproot and burn, don't compost) the infected tree immediately to stop it acting as a source of infection for the psyllid vector.",
+    "immediate_action_hi": "पेड़ संक्रमित होने के बाद कोई इलाज नहीं है। स्थानीय कृषि विस्तार कार्यालय से जांच कराएं, फिर संक्रमित पेड़ को तुरंत हटाकर नष्ट करें (जड़ सहित उखाड़कर जलाएं, खाद न बनाएं) ताकि यह कीट वाहक के लिए संक्रमण का स्रोत न बने।",
+    "chemical_treatment": {
+      "pesticide_name": "No cure for the disease — treatment targets the Asian citrus psyllid vector (Imidacloprid 17.8% SL)",
+      "brand_examples": "Confidor",
+      "dosage": "0.3 ml per litre of water",
+      "frequency": "Every 15-20 days on young flush growth to suppress psyllid population, especially in nurseries",
+      "safety_en": "This does not cure infected trees — it only slows spread by controlling the insect vector. Rotate with a different insecticide class to avoid resistance.",
+      "safety_hi": "यह संक्रमित पेड़ों को ठीक नहीं करता — यह केवल कीट वाहक को नियंत्रित करके फैलाव धीमा करता है। प्रतिरोध से बचने के लिए अलग तरह का कीटनाशक बदल-बदल कर उपयोग करें।"
+    },
+    "organic_alternative_en": "Yellow sticky traps to monitor/reduce psyllid numbers, neem oil spray on new flush growth every 7-10 days as a supplementary (not standalone) measure.",
+    "organic_alternative_hi": "कीट वाहक की संख्या पर नज़र रखने/कम करने के लिए पीले चिपचिपे जाल, नई पत्तियों पर हर 7-10 दिन में नीम तेल का छिड़काव (केवल सहायक उपाय, अकेला पर्याप्त नहीं)।",
+    "prevention_en": "Plant only certified disease-free nursery stock, control the Asian citrus psyllid from the nursery stage, remove infected trees promptly (a single infected tree is a source for the whole orchard), coordinate area-wide psyllid control with neighboring orchards.",
+    "prevention_hi": "केवल प्रमाणित रोगमुक्त नर्सरी पौध लगाएं, नर्सरी अवस्था से ही एशियाई साइट्रस सिल्ला को नियंत्रित करें, संक्रमित पेड़ों को तुरंत हटाएं (एक संक्रमित पेड़ पूरे बाग के लिए स्रोत बन सकता है), पड़ोसी बागों के साथ मिलकर क्षेत्रीय स्तर पर सिल्ला नियंत्रण करें।",
+    "estimated_recovery": "No recovery for infected trees — this is an orchard-management and prevention problem, not a treatable one once symptoms appear."
+  },
+  "Peach___Bacterial_spot": {
+    "immediate_action_en": "Avoid working in wet orchards to prevent spreading bacteria on tools/hands; remove badly infected shoots.",
+    "immediate_action_hi": "बैक्टीरिया को औजारों/हाथों से फैलने से रोकने के लिए नम बाग में काम करने से बचें; बुरी तरह संक्रमित टहनियाँ हटाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Copper Oxychloride 50% WP",
+      "brand_examples": "Blitox",
+      "dosage": "3 g per litre of water",
+      "frequency": "At bud swell and again post-bloom; avoid summer copper sprays that can russet fruit",
+      "safety_en": "Copper can cause phytotoxicity in hot weather — spray in cool morning hours only.",
+      "safety_hi": "गर्मी में कॉपर से पौधे को नुकसान हो सकता है — केवल ठंडी सुबह में छिड़काव करें।"
+    },
+    "organic_alternative_en": "Bordeaux mixture (1%) as a dormant-season protective spray.",
+    "organic_alternative_hi": "सुप्त मौसम में सुरक्षात्मक छिड़काव के रूप में बोर्डो मिश्रण (1%) उपयोग करें।",
+    "prevention_en": "Plant resistant peach varieties, avoid excess nitrogen fertilization which promotes susceptible new growth.",
+    "prevention_hi": "प्रतिरोधी आड़ू किस्में लगाएँ, अधिक नाइट्रोजन उर्वरक से बचें जो संवेदनशील नई वृद्धि को बढ़ावा देता है।",
+    "estimated_recovery": "Bacterial spot is managed, not cured — protects new flush within a season."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "immediate_action_en": "Remove and destroy infected plant debris; avoid overhead watering and working with wet plants.",
+    "immediate_action_hi": "संक्रमित पौधे के मलबे को हटाकर नष्ट करें; ऊपर से पानी देने और गीले पौधों के साथ काम करने से बचें।",
+    "chemical_treatment": {
+      "pesticide_name": "Copper Hydroxide 77% WP + Mancozeb",
+      "brand_examples": "Kocide, tank-mixed with Dithane M-45",
+      "dosage": "2.5 g per litre of water (copper) + 2 g per litre (mancozeb)",
+      "frequency": "Every 7-10 days starting at first symptom",
+      "safety_en": "Do not exceed label frequency — repeated copper use can build soil copper toxicity over years.",
+      "safety_hi": "लेबल पर बताई गई आवृत्ति से अधिक न करें — बार-बार कॉपर उपयोग से वर्षों में मिट्टी में कॉपर विषाक्तता बढ़ सकती है।"
+    },
+    "organic_alternative_en": "Copper soap (fixed copper) spray at 7-day intervals combined with strict sanitation.",
+    "organic_alternative_hi": "सख्त स्वच्छता के साथ 7-दिन के अंतराल पर कॉपर सोप (फिक्स्ड कॉपर) छिड़कें।",
+    "prevention_en": "Use certified disease-free transplants, rotate out of peppers/tomatoes for 2 years, avoid working fields when wet.",
+    "prevention_hi": "प्रमाणित रोगमुक्त पौध उपयोग करें, 2 साल तक मिर्च/टमाटर न लगाएँ, गीले खेत में काम करने से बचें।",
+    "estimated_recovery": "New growth protected within a week; existing lesions remain."
+  },
+  "Potato___Early_blight": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Chlorothalonil 75% WP",
+      "brand_examples": "Kavach",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 7-10 days from first symptom through harvest",
+      "safety_en": "Wear protective gloves; do not eat, drink, or smoke during application.",
+      "safety_hi": "सुरक्षात्मक दस्ताने पहनें; छिड़काव के दौरान खाना, पीना या धूम्रपान न करें।"
+    },
+    "organic_alternative_en": "Neem oil (5 ml/litre) or Trichoderma-based biofungicide as a preventive spray.",
+    "organic_alternative_hi": "निवारक छिड़काव के रूप में नीम तेल (5 मिली/लीटर) या ट्राइकोडर्मा आधारित जैव-फफूंदनाशक उपयोग करें।",
+    "prevention_en": "Rotate crops (avoid potato/tomato for 2 years), ensure adequate plant nutrition, avoid water stress.",
+    "prevention_hi": "फसल चक्र अपनाएँ (2 साल आलू/टमाटर न लगाएँ), पौधों को पर्याप्त पोषण दें, पानी की कमी से बचें।",
+    "estimated_recovery": "New foliage protected within a week; yield loss minimized if caught early."
+  },
+  "Potato___Late_blight": {
+    "immediate_action_en": "URGENT: Spray within 24-48 hours of symptom detection — late blight can destroy a field in under a week in cool, wet weather.",
+    "immediate_action_hi": "तुरंत करें: लक्षण दिखते ही 24-48 घंटे के भीतर छिड़काव करें — ठंडे, नम मौसम में पछेती झुलसा एक सप्ताह से भी कम समय में पूरी फसल बर्बाद कर सकता है।",
+    "chemical_treatment": {
+      "pesticide_name": "Cymoxanil + Mancozeb 8%+64% WP",
+      "brand_examples": "Curzate M-8",
+      "dosage": "3 g per litre of water",
+      "frequency": "Every 5-7 days during cool, wet, high-risk weather; do not delay",
+      "safety_en": "Use full recommended dose — under-dosing accelerates fungicide resistance in this pathogen.",
+      "safety_hi": "पूरी अनुशंसित मात्रा का उपयोग करें — कम मात्रा देने से इस रोगजनक में फफूंदनाशक प्रतिरोध तेज़ी से बढ़ता है।"
+    },
+    "organic_alternative_en": "Copper oxychloride (3 g/litre) as a protective spray before forecasted wet/cool spells — less effective once infection is established.",
+    "organic_alternative_hi": "पूर्वानुमानित नम/ठंडे मौसम से पहले सुरक्षात्मक छिड़काव के रूप में कॉपर ऑक्सीक्लोराइड (3 ग्राम/लीटर) — संक्रमण स्थापित होने के बाद कम प्रभावी।",
+    "prevention_en": "Use certified disease-free seed tubers, destroy volunteer potato plants, hill soil over tubers, monitor weather-based blight forecasts.",
+    "prevention_hi": "प्रमाणित रोगमुक्त बीज कंद उपयोग करें, स्वयं उगे आलू के पौधे नष्ट करें, कंदों पर मिट्टी चढ़ाएँ, मौसम आधारित झुलसा पूर्वानुमान पर नज़र रखें।",
+    "estimated_recovery": "Critical disease — without prompt spraying, total crop loss possible within 7-10 days."
+  },
+  "Squash___Powdery_mildew": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Sulfur 80% WDG",
+      "brand_examples": "Kumulus DF",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 7-10 days once visible",
+      "safety_en": "Do not apply sulfur within 2 weeks of an oil spray or in temperatures above 32°C.",
+      "safety_hi": "तेल छिड़काव के 2 सप्ताह के भीतर या 32°C से अधिक तापमान में गंधक न लगाएँ।"
+    },
+    "organic_alternative_en": "Milk spray (1 part milk to 9 parts water) weekly, or neem oil (5 ml/litre).",
+    "organic_alternative_hi": "साप्ताहिक दूध का छिड़काव (1 भाग दूध, 9 भाग पानी), या नीम तेल (5 मिली/लीटर)।",
+    "prevention_en": "Space plants for airflow, choose resistant varieties, avoid excess nitrogen.",
+    "prevention_hi": "हवा के लिए पौधों में दूरी रखें, प्रतिरोधी किस्में चुनें, अधिक नाइट्रोजन से बचें।",
+    "estimated_recovery": "New growth clean within 1-2 weeks."
+  },
+  "Strawberry___Leaf_scorch": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Captan 50% WP",
+      "brand_examples": "Captaf",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 10-14 days during the growing season",
+      "safety_en": "Avoid application within 3 days of harvest.",
+      "safety_hi": "कटाई के 3 दिन के भीतर छिड़काव न करें।"
+    },
+    "organic_alternative_en": "Remove old/infected leaves after harvest (renovation), copper-based spray as needed.",
+    "organic_alternative_hi": "कटाई के बाद पुरानी/संक्रमित पत्तियाँ हटाएँ (नवीनीकरण), आवश्यकतानुसार कॉपर आधारित छिड़काव करें।",
+    "prevention_en": "Use wide plant spacing, avoid overhead irrigation, remove old leaves at renovation time.",
+    "prevention_hi": "पौधों के बीच पर्याप्त दूरी रखें, ऊपर से सिंचाई से बचें, नवीनीकरण के समय पुरानी पत्तियाँ हटाएँ।",
+    "estimated_recovery": "New leaves protected within 2 weeks."
+  },
+  "Tomato___Bacterial_spot": {
+    "immediate_action_en": "Remove infected leaves, avoid overhead watering, do not work in the field when plants are wet.",
+    "immediate_action_hi": "संक्रमित पत्तियाँ हटाएँ, ऊपर से पानी देने से बचें, पौधे गीले होने पर खेत में काम न करें।",
+    "chemical_treatment": {
+      "pesticide_name": "Copper Hydroxide 77% WP",
+      "brand_examples": "Kocide",
+      "dosage": "2.5 g per litre of water",
+      "frequency": "Every 7 days, tank-mix with Mancozeb for resistance management",
+      "safety_en": "Rotate with a non-copper mode of action periodically to reduce resistance risk.",
+      "safety_hi": "प्रतिरोध जोखिम कम करने के लिए समय-समय पर गैर-कॉपर उत्पाद के साथ बदलते रहें।"
+    },
+    "organic_alternative_en": "Copper soap spray at 7-day intervals plus strict field sanitation.",
+    "organic_alternative_hi": "7-दिन के अंतराल पर कॉपर सोप छिड़काव और सख्त खेत स्वच्छता अपनाएँ।",
+    "prevention_en": "Use certified disease-free seed/transplants, rotate crops for 2 years, disinfect stakes and tools.",
+    "prevention_hi": "प्रमाणित रोगमुक्त बीज/पौध उपयोग करें, 2 साल फसल चक्र अपनाएँ, डंडे और औजार कीटाणुरहित करें।",
+    "estimated_recovery": "New growth protected within a week; existing spots remain."
+  },
+  "Tomato___Early_blight": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Mancozeb 75% WP",
+      "brand_examples": "Dithane M-45, Indofil M-45",
+      "dosage": "2.5 g per litre of water",
+      "frequency": "Every 7-10 days starting at first symptom",
+      "safety_en": "Spray in early morning or evening; avoid spraying before expected rain.",
+      "safety_hi": "सुबह या शाम को छिड़काव करें; अपेक्षित बारिश से पहले छिड़काव न करें।"
+    },
+    "organic_alternative_en": "Neem oil (5 ml/litre) or Trichoderma-based biofungicide at 7-day intervals.",
+    "organic_alternative_hi": "7-दिन के अंतराल पर नीम तेल (5 मिली/लीटर) या ट्राइकोडर्मा आधारित जैव-फफूंदनाशक उपयोग करें।",
+    "prevention_en": "Mulch to prevent soil splash onto lower leaves, stake plants for airflow, rotate crops.",
+    "prevention_hi": "निचली पत्तियों पर मिट्टी के छींटे रोकने के लिए मल्च करें, हवा के लिए पौधों को सहारा दें, फसल चक्र अपनाएँ।",
+    "estimated_recovery": "New foliage protected within a week."
+  },
+  "Tomato___Late_blight": {
+    "immediate_action_en": "URGENT: Spray immediately — remove and destroy (do not compost) infected plants/leaves to stop spore spread.",
+    "immediate_action_hi": "तुरंत करें: तुरंत छिड़काव करें — बीजाणु फैलाव रोकने के लिए संक्रमित पौधे/पत्तियाँ हटाकर नष्ट करें (खाद न बनाएँ)।",
+    "chemical_treatment": {
+      "pesticide_name": "Cymoxanil + Mancozeb 8%+64% WP",
+      "brand_examples": "Curzate M-8",
+      "dosage": "3 g per litre of water",
+      "frequency": "Every 5-7 days during cool, humid conditions; do not delay treatment",
+      "safety_en": "This disease spreads very fast — treat the whole field, not just visibly infected plants.",
+      "safety_hi": "यह रोग बहुत तेज़ी से फैलता है — केवल दिखाई देने वाले संक्रमित पौधों को नहीं, पूरे खेत का उपचार करें।"
+    },
+    "organic_alternative_en": "Copper oxychloride (3 g/litre) as protective spray before forecasted wet weather — limited effect once established.",
+    "organic_alternative_hi": "पूर्वानुमानित नम मौसम से पहले सुरक्षात्मक छिड़काव के रूप में कॉपर ऑक्सीक्लोराइड (3 ग्राम/लीटर) — रोग स्थापित होने के बाद सीमित प्रभाव।",
+    "prevention_en": "Improve field drainage and spacing, avoid overhead irrigation, monitor local blight-risk weather alerts.",
+    "prevention_hi": "खेत की जल निकासी और दूरी सुधारें, ऊपर से सिंचाई से बचें, स्थानीय झुलसा-जोखिम मौसम चेतावनियों पर नज़र रखें।",
+    "estimated_recovery": "Critical — without prompt action, total crop loss possible within days."
+  },
+  "Tomato___Leaf_Mold": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Chlorothalonil 75% WP",
+      "brand_examples": "Kavach",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 7-10 days, focus on lower leaf surfaces",
+      "safety_en": "Improve greenhouse/polyhouse ventilation alongside spraying — humidity drives this disease.",
+      "safety_hi": "छिड़काव के साथ-साथ ग्रीनहाउस/पॉलीहाउस का वेंटिलेशन सुधारें — नमी इस रोग को बढ़ावा देती है।"
+    },
+    "organic_alternative_en": "Reduce humidity via ventilation/spacing; neem oil spray as a supplementary measure.",
+    "organic_alternative_hi": "वेंटिलेशन/दूरी के माध्यम से नमी कम करें; पूरक उपाय के रूप में नीम तेल का छिड़काव करें।",
+    "prevention_en": "Increase plant spacing and ventilation, avoid leaf wetness, use resistant varieties where available.",
+    "prevention_hi": "पौधों के बीच दूरी और वेंटिलेशन बढ़ाएँ, पत्ती की नमी से बचें, जहाँ उपलब्ध हो प्रतिरोधी किस्में उपयोग करें।",
+    "estimated_recovery": "New growth clean within 1-2 weeks once humidity is controlled."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Mancozeb 75% WP",
+      "brand_examples": "Dithane M-45",
+      "dosage": "2.5 g per litre of water",
+      "frequency": "Every 7-10 days starting at first symptom",
+      "safety_en": "Remove and destroy lower infected leaves before spraying for best results.",
+      "safety_hi": "बेहतर परिणाम के लिए छिड़काव से पहले निचली संक्रमित पत्तियाँ हटाकर नष्ट करें।"
+    },
+    "organic_alternative_en": "Copper-based fungicide spray at 7-10 day intervals.",
+    "organic_alternative_hi": "7-10 दिन के अंतराल पर कॉपर आधारित फफूंदनाशक छिड़कें।",
+    "prevention_en": "Mulch soil, avoid overhead watering, stake plants, rotate crops for 1-2 years.",
+    "prevention_hi": "मिट्टी पर मल्च करें, ऊपर से पानी देने से बचें, पौधों को सहारा दें, 1-2 साल फसल चक्र अपनाएँ।",
+    "estimated_recovery": "New foliage protected within a week."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "immediate_action_en": "Hose down plants with a strong water spray to physically dislodge mites; isolate heavily infested plants.",
+    "immediate_action_hi": "कीटों को शारीरिक रूप से हटाने के लिए पौधों पर तेज़ पानी की धार डालें; भारी संक्रमित पौधों को अलग करें।",
+    "chemical_treatment": {
+      "pesticide_name": "Abamectin 1.8% EC (miticide)",
+      "brand_examples": "Vertimec",
+      "dosage": "0.5 ml per litre of water",
+      "frequency": "Every 7 days, maximum 2-3 sprays per season to avoid resistance",
+      "safety_en": "This is a miticide, not a fungicide — do not confuse with disease sprays; toxic to bees, avoid spraying during flowering.",
+      "safety_hi": "यह एक कीटनाशक (माइटीसाइड) है, फफूंदनाशक नहीं — रोग स्प्रे से भ्रमित न करें; मधुमक्खियों के लिए विषैला, फूल आने के समय छिड़काव से बचें।"
+    },
+    "organic_alternative_en": "Neem oil (5 ml/litre) or insecticidal soap spray every 5-7 days, targeting the underside of leaves.",
+    "organic_alternative_hi": "पत्ती के नीचे की ओर लक्षित करते हुए हर 5-7 दिन में नीम तेल (5 मिली/लीटर) या कीटनाशक साबुन का छिड़काव करें।",
+    "prevention_en": "Avoid drought stress (mites thrive in dry conditions), encourage predatory mites, avoid broad-spectrum insecticides that kill natural enemies.",
+    "prevention_hi": "सूखे तनाव से बचें (कीट शुष्क परिस्थितियों में पनपते हैं), शिकारी माइट्स को बढ़ावा दें, प्राकृतिक शत्रुओं को मारने वाले व्यापक-स्पेक्ट्रम कीटनाशकों से बचें।",
+    "estimated_recovery": "Population drop visible within days; full recovery of new growth in 1-2 weeks."
+  },
+  "Tomato___Target_Spot": {
+    "immediate_action_en": "Remove and destroy visibly infected leaves/fruit. Avoid overhead irrigation and improve airflow around plants.",
+    "immediate_action_hi": "दिखाई देने वाली संक्रमित पत्तियों/फलों को हटाकर नष्ट करें। ऊपर से सिंचाई न करें और पौधों के बीच हवा का प्रवाह बढ़ाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "Azoxystrobin 23% SC",
+      "brand_examples": "Amistar",
+      "dosage": "1 ml per litre of water",
+      "frequency": "Every 10-14 days starting at first symptom",
+      "safety_en": "Rotate with a different fungicide class after 2 consecutive sprays.",
+      "safety_hi": "2 लगातार छिड़काव के बाद फफूंदनाशक का प्रकार बदलें।"
+    },
+    "organic_alternative_en": "Copper oxychloride spray at 10-day intervals.",
+    "organic_alternative_hi": "10 दिन के अंतराल पर कॉपर ऑक्सीक्लोराइड का छिड़काव करें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "New foliage protected within 1-2 weeks."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "immediate_action_en": "Remove and destroy infected plants immediately to reduce the whitefly-transmitted virus source; do not compost.",
+    "immediate_action_hi": "सफेद मक्खी से फैलने वाले विषाणु स्रोत को कम करने के लिए संक्रमित पौधे तुरंत हटाकर नष्ट करें; खाद न बनाएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "No cure for infected plants — control targets the whitefly vector (Imidacloprid 17.8% SL)",
+      "brand_examples": "Confidor",
+      "dosage": "0.3 ml per litre of water",
+      "frequency": "Every 10-14 days to suppress whitefly population, not to cure infected plants",
+      "safety_en": "This treats the insect vector only — infected plants must be removed, not sprayed to 'cure' them.",
+      "safety_hi": "यह केवल कीट वाहक का उपचार करता है — संक्रमित पौधों को हटाना चाहिए, उन्हें 'ठीक' करने के लिए छिड़काव नहीं।"
+    },
+    "organic_alternative_en": "Yellow sticky traps and reflective mulch to reduce whitefly landing, neem oil to suppress whitefly nymphs.",
+    "organic_alternative_hi": "सफेद मक्खी को आने से रोकने के लिए पीले चिपचिपे जाल और परावर्तक मल्च, निम्फ को कम करने के लिए नीम तेल।",
+    "prevention_en": "Use virus-resistant tomato varieties, insect-proof nursery netting, control whiteflies from the seedling stage.",
+    "prevention_hi": "विषाणु-प्रतिरोधी टमाटर किस्में उपयोग करें, नर्सरी में कीट-रोधी जाली लगाएँ, पौध अवस्था से ही सफेद मक्खी नियंत्रित करें।",
+    "estimated_recovery": "No recovery for infected plants — focus entirely on prevention and vector control for the next planting."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "immediate_action_en": "Remove and destroy infected plants; wash hands and tools with soap (or 10% skim milk solution) after handling to avoid mechanical spread.",
+    "immediate_action_hi": "संक्रमित पौधे हटाकर नष्ट करें; यांत्रिक फैलाव रोकने के लिए संभालने के बाद हाथ और औजार साबुन (या 10% स्किम मिल्क घोल) से धोएँ।",
+    "chemical_treatment": {
+      "pesticide_name": "No chemical cure exists for plant viruses",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "Do not smoke or handle tobacco products near plants — ToMV can spread from tobacco products to tomatoes.",
+      "safety_hi": "पौधों के पास धूम्रपान या तंबाकू उत्पाद न संभालें — ToMV तंबाकू उत्पादों से टमाटर में फैल सकता है।"
+    },
+    "organic_alternative_en": "No organic cure — sanitation and resistant varieties are the only effective tools.",
+    "organic_alternative_hi": "कोई जैविक इलाज नहीं — स्वच्छता और प्रतिरोधी किस्में ही प्रभावी उपाय हैं।",
+    "prevention_en": "Use certified virus-free seed, disinfect tools between plants, avoid handling plants after using tobacco.",
+    "prevention_hi": "प्रमाणित विषाणु-मुक्त बीज उपयोग करें, पौधों के बीच औजार कीटाणुरहित करें, तंबाकू उपयोग के बाद पौधों को न छुएँ।",
+    "estimated_recovery": "No recovery for infected plants."
+  },
+  "Apple___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Corn_(maize)___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Grape___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Peach___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Pepper,_bell___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Potato___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Strawberry___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Tomato___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Blueberry___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Raspberry___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  },
+  "Soybean___healthy": {
+    "immediate_action_en": "No treatment needed — continue regular monitoring.",
+    "immediate_action_hi": "किसी उपचार की आवश्यकता नहीं — नियमित निगरानी जारी रखें।",
+    "chemical_treatment": {
+      "pesticide_name": "Not applicable",
+      "brand_examples": "N/A",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "safety_en": "N/A",
+      "safety_hi": "N/A"
+    },
+    "organic_alternative_en": "Maintain balanced nutrition and consistent watering as a preventive measure.",
+    "organic_alternative_hi": "निवारक उपाय के रूप में संतुलित पोषण और नियमित सिंचाई बनाए रखें।",
+    "prevention_en": "Practice crop rotation, use certified disease-free seed/seedlings, maintain field sanitation, and avoid overhead irrigation late in the day.",
+    "prevention_hi": "फसल चक्र अपनाएँ, प्रमाणित रोगमुक्त बीज/पौध का उपयोग करें, खेत की स्वच्छता बनाए रखें, और दिन के अंत में ऊपर से सिंचाई से बचें।",
+    "estimated_recovery": "N/A — plant is healthy."
+  }
+}

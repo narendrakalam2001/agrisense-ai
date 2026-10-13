@@ -1,0 +1,382 @@
+{
+  "Apple___Apple_scab": {
+    "crop": "Apple",
+    "crop_hindi": "सेब",
+    "disease_name_en": "Apple Scab",
+    "disease_name_hi": "सेब का पपड़ी रोग",
+    "pathogen": "Venturia inaequalis (fungus)",
+    "symptoms_en": "Olive-green to black velvety spots on leaves and fruit; leaves may curl and drop early; fruit develops corky, scabby lesions.",
+    "symptoms_hi": "पत्तियों और फल पर जैतूनी-हरे से काले मखमली धब्बे; पत्तियाँ मुड़कर जल्दी गिर सकती हैं; फल पर पपड़ीदार घाव बनते हैं।",
+    "severity": "moderate"
+  },
+  "Apple___Black_rot": {
+    "crop": "Apple",
+    "crop_hindi": "सेब",
+    "disease_name_en": "Black Rot",
+    "disease_name_hi": "काला सड़न रोग",
+    "pathogen": "Botryosphaeria obtusa (fungus)",
+    "symptoms_en": "Purple-bordered leaf spots ('frogeye leaf spot'), rotting fruit with concentric black rings, cankers on branches.",
+    "symptoms_hi": "पत्तियों पर बैंगनी किनारे वाले धब्बे, फल पर काले संकेंद्रित छल्लों वाला सड़न, शाखाओं पर कैंकर।",
+    "severity": "high"
+  },
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple",
+    "crop_hindi": "सेब",
+    "disease_name_en": "Cedar Apple Rust",
+    "disease_name_hi": "देवदार-सेब रस्ट रोग",
+    "pathogen": "Gymnosporangium juniperi-virginianae (fungus)",
+    "symptoms_en": "Bright orange-yellow spots on upper leaf surface, tiny black dots inside the spots, orange tube-like structures on leaf underside.",
+    "symptoms_hi": "पत्ती की ऊपरी सतह पर चमकीले नारंगी-पीले धब्बे, धब्बों के अंदर छोटे काले बिंदु, निचली सतह पर नारंगी नलीनुमा संरचनाएँ।",
+    "severity": "moderate"
+  },
+  "Apple___healthy": {
+    "crop": "Apple",
+    "crop_hindi": "सेब",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms — uniform green leaf color, no lesions or spotting.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं — पत्ती का रंग एक समान हरा, कोई घाव या धब्बे नहीं।",
+    "severity": "none"
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "crop": "Cherry",
+    "crop_hindi": "चेरी",
+    "disease_name_en": "Powdery Mildew",
+    "disease_name_hi": "चूर्णिल आसिता",
+    "pathogen": "Podosphaera clandestina (fungus)",
+    "symptoms_en": "White powdery fungal growth on leaves and shoots, leaf curling and stunted new growth, reduced fruit quality.",
+    "symptoms_hi": "पत्तियों और टहनियों पर सफेद चूर्ण जैसी फफूंद, पत्तियों का मुड़ना, नई वृद्धि रुकना, फल की गुणवत्ता में कमी।",
+    "severity": "moderate"
+  },
+  "Cherry_(including_sour)___healthy": {
+    "crop": "Cherry",
+    "crop_hindi": "चेरी",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "crop": "Corn (Maize)",
+    "crop_hindi": "मक्का",
+    "disease_name_en": "Gray Leaf Spot",
+    "disease_name_hi": "धूसर पत्ती धब्बा रोग",
+    "pathogen": "Cercospora zeae-maydis (fungus)",
+    "symptoms_en": "Rectangular tan-to-gray lesions running parallel to leaf veins, lesions merge and can blight the whole leaf under humid conditions.",
+    "symptoms_hi": "पत्ती की शिराओं के समानांतर आयताकार भूरे-धूसर घाव, नम मौसम में घाव मिलकर पूरी पत्ती को झुलसा सकते हैं।",
+    "severity": "high"
+  },
+  "Corn_(maize)___Common_rust_": {
+    "crop": "Corn (Maize)",
+    "crop_hindi": "मक्का",
+    "disease_name_en": "Common Rust",
+    "disease_name_hi": "सामान्य रस्ट रोग",
+    "pathogen": "Puccinia sorghi (fungus)",
+    "symptoms_en": "Small, cinnamon-brown, powdery pustules scattered on both leaf surfaces.",
+    "symptoms_hi": "दोनों पत्ती सतहों पर बिखरे हुए छोटे, दालचीनी-भूरे, चूर्णी फफोले।",
+    "severity": "moderate"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop": "Corn (Maize)",
+    "crop_hindi": "मक्का",
+    "disease_name_en": "Northern Leaf Blight",
+    "disease_name_hi": "उत्तरी पत्ती झुलसा रोग",
+    "pathogen": "Exserohilum turcicum (fungus)",
+    "symptoms_en": "Long, elliptical, gray-green to tan cigar-shaped lesions on leaves, lower leaves affected first.",
+    "symptoms_hi": "पत्तियों पर लंबे, अंडाकार, धूसर-हरे से भूरे सिगार-आकार के घाव, पहले निचली पत्तियाँ प्रभावित होती हैं।",
+    "severity": "high"
+  },
+  "Corn_(maize)___healthy": {
+    "crop": "Corn (Maize)",
+    "crop_hindi": "मक्का",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  },
+  "Grape___Black_rot": {
+    "crop": "Grape",
+    "crop_hindi": "अंगूर",
+    "disease_name_en": "Black Rot",
+    "disease_name_hi": "काला सड़न रोग",
+    "pathogen": "Guignardia bidwellii (fungus)",
+    "symptoms_en": "Small tan leaf spots with dark borders, fruit shrivels into hard black 'mummies'.",
+    "symptoms_hi": "गहरे किनारे वाले छोटे भूरे पत्ती धब्बे, फल सिकुड़कर सख्त काली ममी बन जाता है।",
+    "severity": "high"
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "crop": "Grape",
+    "crop_hindi": "अंगूर",
+    "disease_name_en": "Esca (Black Measles)",
+    "disease_name_hi": "एस्का (काला खसरा) रोग",
+    "pathogen": "Fungal complex (Phaeomoniella, Phaeoacremonium spp.)",
+    "symptoms_en": "'Tiger-stripe' interveinal leaf discoloration, dark spotting on berries, sudden vine collapse in severe cases.",
+    "symptoms_hi": "पत्तियों पर 'बाघ-धारी' शिराओं के बीच रंग बदलना, फलों पर काले धब्बे, गंभीर मामलों में बेल का अचानक सूखना।",
+    "severity": "high"
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "crop": "Grape",
+    "crop_hindi": "अंगूर",
+    "disease_name_en": "Leaf Blight (Isariopsis Leaf Spot)",
+    "disease_name_hi": "पत्ती झुलसा रोग",
+    "pathogen": "Pseudocercospora vitis (fungus)",
+    "symptoms_en": "Angular brown spots on leaves that merge into larger necrotic blotches, premature defoliation.",
+    "symptoms_hi": "पत्तियों पर कोणीय भूरे धब्बे जो बड़े परिगलित धब्बों में मिल जाते हैं, समय से पहले पत्ती गिरना।",
+    "severity": "moderate"
+  },
+  "Grape___healthy": {
+    "crop": "Grape",
+    "crop_hindi": "अंगूर",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "crop": "Orange (Citrus)",
+    "crop_hindi": "संतरा (खट्टे फल)",
+    "disease_name_en": "Huanglongbing / Citrus Greening",
+    "disease_name_hi": "साइट्रस ग्रीनिंग (ह्वांगलोंगबिंग)",
+    "pathogen": "Candidatus Liberibacter spp. (bacterium), spread by the Asian citrus psyllid",
+    "symptoms_en": "Blotchy yellow mottling on leaves (asymmetric across the midrib, unlike nutrient deficiency), lopsided/bitter fruit that stays green at the bottom, twig dieback, yield decline over 1-2 years.",
+    "symptoms_hi": "पत्तियों पर असमान पीला धब्बेदार रंग (मुख्य शिरा के आर-पार असमान, पोषक तत्व की कमी से अलग), टेढ़ा/कड़वा फल जो नीचे से हरा रहता है, टहनियों का सूखना, 1-2 साल में उपज में गिरावट।",
+    "severity": "critical"
+  },
+  "Peach___Bacterial_spot": {
+    "crop": "Peach",
+    "crop_hindi": "आड़ू",
+    "disease_name_en": "Bacterial Spot",
+    "disease_name_hi": "जीवाणु धब्बा रोग",
+    "pathogen": "Xanthomonas arboricola pv. pruni (bacterium)",
+    "symptoms_en": "Small water-soaked spots on leaves that turn purple-black and fall out leaving a 'shot-hole' look; sunken pits on fruit.",
+    "symptoms_hi": "पत्तियों पर छोटे पानी-भीगे धब्बे जो बैंगनी-काले होकर गिर जाते हैं और 'छेद जैसा' रूप बनाते हैं; फल पर धँसे गड्ढे।",
+    "severity": "moderate"
+  },
+  "Peach___healthy": {
+    "crop": "Peach",
+    "crop_hindi": "आड़ू",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "crop": "Bell Pepper",
+    "crop_hindi": "शिमला मिर्च",
+    "disease_name_en": "Bacterial Spot",
+    "disease_name_hi": "जीवाणु धब्बा रोग",
+    "pathogen": "Xanthomonas campestris pv. vesicatoria (bacterium)",
+    "symptoms_en": "Small, water-soaked, greasy-looking spots on leaves and fruit that turn brown and scabby; leaf drop under wet conditions.",
+    "symptoms_hi": "पत्तियों और फल पर छोटे, पानी-भीगे, चिकने दिखने वाले धब्बे जो भूरे और पपड़ीदार हो जाते हैं; नम मौसम में पत्तियाँ गिरती हैं।",
+    "severity": "moderate"
+  },
+  "Pepper,_bell___healthy": {
+    "crop": "Bell Pepper",
+    "crop_hindi": "शिमला मिर्च",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "crop_hindi": "आलू",
+    "disease_name_en": "Early Blight",
+    "disease_name_hi": "अगेती झुलसा रोग",
+    "pathogen": "Alternaria solani (fungus)",
+    "symptoms_en": "Dark brown spots with concentric 'target-board' rings on older leaves first, yellowing around lesions.",
+    "symptoms_hi": "पुरानी पत्तियों पर पहले संकेंद्रित 'लक्ष्य' छल्लों वाले गहरे भूरे धब्बे, घावों के चारों ओर पीलापन।",
+    "severity": "moderate"
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "crop_hindi": "आलू",
+    "disease_name_en": "Late Blight",
+    "disease_name_hi": "पछेती झुलसा रोग",
+    "pathogen": "Phytophthora infestans (oomycete)",
+    "symptoms_en": "Water-soaked pale-to-dark green blotches that turn brown-black rapidly, white fungal growth on leaf underside in humid weather — can destroy a field within days.",
+    "symptoms_hi": "पानी-भीगे हल्के से गहरे हरे धब्बे जो तेज़ी से भूरे-काले हो जाते हैं, नम मौसम में पत्ती के नीचे सफेद फफूंद — कुछ ही दिनों में पूरी फसल बर्बाद कर सकता है।",
+    "severity": "critical"
+  },
+  "Potato___healthy": {
+    "crop": "Potato",
+    "crop_hindi": "आलू",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  },
+  "Squash___Powdery_mildew": {
+    "crop": "Squash",
+    "crop_hindi": "कद्दू",
+    "disease_name_en": "Powdery Mildew",
+    "disease_name_hi": "चूर्णिल आसिता",
+    "pathogen": "Podosphaera xanthii (fungus)",
+    "symptoms_en": "White powdery patches on leaf surfaces and stems that spread and reduce photosynthesis, premature leaf death.",
+    "symptoms_hi": "पत्ती की सतह और तने पर सफेद चूर्ण जैसे धब्बे जो फैलकर प्रकाश संश्लेषण घटाते हैं, समय से पहले पत्ती सूखना।",
+    "severity": "moderate"
+  },
+  "Strawberry___Leaf_scorch": {
+    "crop": "Strawberry",
+    "crop_hindi": "स्ट्रॉबेरी",
+    "disease_name_en": "Leaf Scorch",
+    "disease_name_hi": "पत्ती झुलसा रोग",
+    "pathogen": "Diplocarpon earlianum (fungus)",
+    "symptoms_en": "Small purple spots that enlarge into irregular blotches, leaves appear scorched and dry, reduced yield.",
+    "symptoms_hi": "छोटे बैंगनी धब्बे जो अनियमित धब्बों में बड़े होते हैं, पत्तियाँ झुलसी और सूखी दिखती हैं, उपज में कमी।",
+    "severity": "moderate"
+  },
+  "Strawberry___healthy": {
+    "crop": "Strawberry",
+    "crop_hindi": "स्ट्रॉबेरी",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "disease_name_en": "Bacterial Spot",
+    "disease_name_hi": "जीवाणु धब्बा रोग",
+    "pathogen": "Xanthomonas spp. (bacterium)",
+    "symptoms_en": "Small, dark, water-soaked spots on leaves and fruit with yellow halos, spots become scabby on fruit.",
+    "symptoms_hi": "पत्तियों और फल पर पीले घेरे वाले छोटे, गहरे, पानी-भीगे धब्बे, फल पर धब्बे पपड़ीदार हो जाते हैं।",
+    "severity": "moderate"
+  },
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "disease_name_en": "Early Blight",
+    "disease_name_hi": "अगेती झुलसा रोग",
+    "pathogen": "Alternaria solani (fungus)",
+    "symptoms_en": "Dark 'target-board' concentric-ring spots on older/lower leaves, yellowing and leaf drop moving upward.",
+    "symptoms_hi": "पुरानी/निचली पत्तियों पर गहरे संकेंद्रित 'लक्ष्य' छल्ले वाले धब्बे, पीलापन और पत्तियाँ ऊपर की ओर गिरना।",
+    "severity": "moderate"
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "disease_name_en": "Late Blight",
+    "disease_name_hi": "पछेती झुलसा रोग",
+    "pathogen": "Phytophthora infestans (oomycete)",
+    "symptoms_en": "Large, water-soaked, greasy-looking gray-green patches that rapidly turn brown; white mold on leaf undersides in humid conditions; fast-spreading and highly destructive.",
+    "symptoms_hi": "बड़े, पानी-भीगे, चिकने धूसर-हरे धब्बे जो तेज़ी से भूरे हो जाते हैं; नम मौसम में पत्ती के नीचे सफेद फफूंद; तेज़ी से फैलने वाला और अत्यंत विनाशकारी।",
+    "severity": "critical"
+  },
+  "Tomato___Leaf_Mold": {
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "disease_name_en": "Leaf Mold",
+    "disease_name_hi": "पत्ती फफूंद रोग",
+    "pathogen": "Passalora fulva (fungus)",
+    "symptoms_en": "Pale green-yellow spots on upper leaf surface, olive-green to grayish-purple velvety mold on the underside — common in humid greenhouses.",
+    "symptoms_hi": "पत्ती की ऊपरी सतह पर हल्के हरे-पीले धब्बे, निचली सतह पर जैतूनी-हरे से धूसर-बैंगनी मखमली फफूंद — नम ग्रीनहाउस में आम।",
+    "severity": "moderate"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "disease_name_en": "Septoria Leaf Spot",
+    "disease_name_hi": "सेप्टोरिया पत्ती धब्बा रोग",
+    "pathogen": "Septoria lycopersici (fungus)",
+    "symptoms_en": "Numerous small circular spots with dark borders and gray centers, tiny black specks (pycnidia) visible in spot centers, lower leaves affected first.",
+    "symptoms_hi": "गहरे किनारे और धूसर केंद्र वाले अनेक छोटे गोल धब्बे, धब्बों के केंद्र में छोटे काले बिंदु दिखते हैं, पहले निचली पत्तियाँ प्रभावित होती हैं।",
+    "severity": "moderate"
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "disease_name_en": "Two-Spotted Spider Mite Infestation",
+    "disease_name_hi": "मकड़ी कीट संक्रमण",
+    "pathogen": "Tetranychus urticae (mite pest, not a pathogen)",
+    "symptoms_en": "Fine yellow stippling/speckling on leaves, fine webbing on the underside and between leaves in heavy infestations, leaves turn bronze and dry.",
+    "symptoms_hi": "पत्तियों पर महीन पीले धब्बे, भारी संक्रमण में पत्ती के नीचे और बीच महीन जाला, पत्तियाँ कांस्य रंग की होकर सूखती हैं।",
+    "severity": "moderate"
+  },
+  "Tomato___Target_Spot": {
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "disease_name_en": "Target Spot",
+    "disease_name_hi": "लक्ष्य धब्बा रोग",
+    "pathogen": "Corynespora cassiicola (fungus)",
+    "symptoms_en": "Brown lesions with concentric target-like rings on leaves, stems and fruit; can cause significant defoliation.",
+    "symptoms_hi": "पत्तियों, तनों और फल पर संकेंद्रित लक्ष्य जैसे छल्लों वाले भूरे घाव; काफी पत्ती-गिरावट का कारण बन सकता है।",
+    "severity": "moderate"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "disease_name_en": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "disease_name_hi": "टमाटर पीला पत्ती मोड़क विषाणु रोग",
+    "pathogen": "Begomovirus, transmitted by whitefly (Bemisia tabaci)",
+    "symptoms_en": "Severe stunting, upward leaf curling, yellowing of leaf margins, drastically reduced flowering/fruiting — spread by whiteflies, not curable once infected.",
+    "symptoms_hi": "गंभीर बौनापन, पत्तियों का ऊपर की ओर मुड़ना, पत्ती किनारों का पीलापन, फूल/फल में भारी कमी — सफेद मक्खी से फैलता है, संक्रमण के बाद इलाज संभव नहीं।",
+    "severity": "critical"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "disease_name_en": "Tomato Mosaic Virus (ToMV)",
+    "disease_name_hi": "टमाटर मोज़ेक विषाणु रोग",
+    "pathogen": "Tobamovirus",
+    "symptoms_en": "Mottled light and dark green mosaic pattern on leaves, leaf distortion and fern-like narrowing, stunted plant growth.",
+    "symptoms_hi": "पत्तियों पर हल्के और गहरे हरे रंग का मिश्रित मोज़ेक पैटर्न, पत्ती विकृति और फर्न जैसी संकीर्णता, पौधे की वृद्धि रुकना।",
+    "severity": "high"
+  },
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  },
+  "Blueberry___healthy": {
+    "crop": "Blueberry",
+    "crop_hindi": "ब्लूबेरी",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  },
+  "Raspberry___healthy": {
+    "crop": "Raspberry",
+    "crop_hindi": "रास्पबेरी",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  },
+  "Soybean___healthy": {
+    "crop": "Soybean",
+    "crop_hindi": "सोयाबीन",
+    "disease_name_en": "Healthy",
+    "disease_name_hi": "स्वस्थ",
+    "pathogen": "None",
+    "symptoms_en": "No disease symptoms observed.",
+    "symptoms_hi": "कोई रोग लक्षण नहीं दिखा।",
+    "severity": "none"
+  }
+}

@@ -1,0 +1,2 @@
+2026-10-03 15:37:28 | src.preprocessing | INFO | Built augmentation pipeline (rotation=±15°, zoom=(-0.1, 0.1), brightness=±0.15, contrast=±0.15, crop_fraction=0.90).
+2026-10-03 17:44:30 | src.preprocessing | INFO | Built augmentation pipeline (rotation=±15°, zoom=(-0.1, 0.1), brightness=±0.15, contrast=±0.15, crop_fraction=0.90).

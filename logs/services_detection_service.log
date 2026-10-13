@@ -1,0 +1,33 @@
+2026-10-06 16:25:55 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-06 16:30:00 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-06 16:31:06 | services.detection_service | INFO | Detected 'Apple___Cedar_apple_rust' with confidence 1.0000.
+2026-10-06 16:32:06 | services.detection_service | INFO | Detected 'Apple___Cedar_apple_rust' with confidence 1.0000.
+2026-10-06 16:40:08 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-06 16:40:41 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-06 16:45:43 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-06 16:46:15 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-06 16:53:22 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-06 16:53:53 | services.detection_service | INFO | Detected 'Corn_(maize)___Common_rust_' with confidence 1.0000.
+2026-10-06 17:03:53 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-0\test_detection_service_detect_0\model.h5' with 4 classes.
+2026-10-06 17:03:53 | services.detection_service | INFO | Detected 'Tomato___Late_blight' with confidence 0.7000.
+2026-10-06 17:03:53 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-0\test_detection_service_raises_1\model.h5' with 2 classes.
+2026-10-06 17:03:54 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-0\test_detection_service_result_0\model.h5' with 2 classes.
+2026-10-06 17:03:54 | services.detection_service | INFO | Detected 'healthy' with confidence 0.9000.
+2026-10-06 17:03:54 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-0\test_detection_service_falls_b0\model.h5' with 38 classes.
+2026-10-06 17:03:54 | services.detection_service | WARNING | No model card found at 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-0\test_detection_service_falls_b0\no_such_model_card.json' — falling back to the CLASS_NAMES constant in src/config.py. If your dataset's folder-naming convention differs from that constant, predictions will be mislabeled. Run scripts/train_model.py to generate a model card with the actual discovered class names.
+2026-10-06 17:03:54 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-0\test_detection_service_reads_c0\model.h5' with 38 classes.
+2026-10-06 17:18:54 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-1\test_detection_service_detect_0\model.h5' with 4 classes.
+2026-10-06 17:18:54 | services.detection_service | INFO | Detected 'Tomato___Late_blight' with confidence 0.7000.
+2026-10-06 17:18:54 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-1\test_detection_service_raises_1\model.h5' with 2 classes.
+2026-10-06 17:18:55 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-1\test_detection_service_result_0\model.h5' with 2 classes.
+2026-10-06 17:18:55 | services.detection_service | INFO | Detected 'healthy' with confidence 0.9000.
+2026-10-06 17:18:55 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-1\test_detection_service_falls_b0\model.h5' with 38 classes.
+2026-10-06 17:18:55 | services.detection_service | WARNING | No model card found at 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-1\test_detection_service_falls_b0\no_such_model_card.json' — falling back to the CLASS_NAMES constant in src/config.py. If your dataset's folder-naming convention differs from that constant, predictions will be mislabeled. Run scripts/train_model.py to generate a model card with the actual discovered class names.
+2026-10-06 17:18:55 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\AppData\Local\Temp\pytest-of-Narendra Kalam\pytest-1\test_detection_service_reads_c0\model.h5' with 38 classes.
+2026-10-06 17:28:50 | services.detection_service | INFO | Detected 'Apple___Apple_scab' with confidence 0.9607.
+2026-10-06 17:30:44 | services.detection_service | INFO | Detected 'Apple___Apple_scab' with confidence 0.9607.
+2026-10-06 17:40:17 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-08 14:55:44 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-13 13:15:36 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-13 13:17:04 | services.detection_service | INFO | Loaded model from 'C:\Users\Narendra Kalam\Data_Science_Capstone_Projects\agrisense-ai\models\efficientnet_plantvillage.h5' with 38 classes.
+2026-10-13 13:17:51 | services.detection_service | INFO | Detected 'Apple___Cedar_apple_rust' with confidence 1.0000.

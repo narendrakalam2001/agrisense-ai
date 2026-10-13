@@ -1,0 +1,4 @@
+2026-10-03 20:23:25 | src.model_evaluation | INFO | Saved training curves plot to '/kaggle/working/agrisense-ai/plots/training_curves.png'.
+2026-10-03 20:25:41 | src.model_evaluation | INFO | Saved confusion matrix plot to '/kaggle/working/agrisense-ai/plots/confusion_matrix.png'.
+2026-10-03 20:26:00 | src.model_evaluation | INFO | Evaluation complete — accuracy=0.9844, top5=1.0000, macro_f1=0.9843, min_per_class_f1=0.8847, mean_inference=0.112s
+2026-10-03 20:26:00 | src.model_evaluation | INFO | Wrote model card to '/kaggle/working/agrisense-ai/models/model_card.json'.

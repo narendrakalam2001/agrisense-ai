@@ -1,0 +1,20 @@
+# Render Blueprint — deploys the FastAPI backend from the Dockerfile.
+# https://render.com/docs/blueprint-spec
+#
+# plan: standard (2 GB RAM) — TensorFlow + PyTorch(CPU) + ChromaDB do NOT fit in the
+# 512 MB RAM of the Free / Starter instances.
+
+services:
+  - type: web
+    name: agrisense-ai-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    region: singapore
+    plan: standard
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: OPENWEATHERMAP_API_KEY
+        sync: false

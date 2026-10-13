@@ -1,0 +1,71 @@
+# =====================================================================
+# AgriSense AI — .gitignore
+#
+# Tracked ON PURPOSE (needed for Render / Streamlit deployment & docs):
+#   models/ (h5 + tflite + model_card.json), data/knowledge_base/,
+#   data/sample*/ (small demo sample), docs/, plots/, logs/, .github/,
+#   Dockerfile, render.yaml, requirements*.txt, frontend/requirements.txt
+# =====================================================================
+
+# ---- Secrets: NEVER commit ------------------------------------------
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# ---- Python ---------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# ---- Virtual environments -------------------------------------------
+venv/
+.venv/
+env/
+ml_env/
+capstone_env/
+
+# ---- IDE / OS -------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Generated at runtime (rebuilt by scripts/ingest_knowledge_base.py)
+chromadb_store/
+
+# ---- Full image datasets: too big for GitHub (download from Kaggle) --
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.zip
+
+# ---- Small demo sample dataset IS tracked, wherever it sits in data/ -
+!data/sample*/
+!data/sample*/**
+!data/raw/sample*/
+!data/raw/sample*/**
+!data/processed/sample*/
+!data/processed/sample*/**
+
+# ---- Model housekeeping: keep ONE serving model in models/ ----------
+# (move the original/full .h5 outside the repo after running slim_model.py)
+models/*_slim.h5
+models/*_full.h5
+models/*.bak
+
+# NOTE: logs/, plots/ and docs/ are intentionally NOT ignored.
+
+# EDA by-products: large / regenerable
+notebooks/artifacts/
+notebooks/plots/
+notebooks/*.html

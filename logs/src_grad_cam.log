@@ -1,0 +1,11 @@
+2026-10-03 20:26:32 | src.grad_cam | INFO | Using 'top_conv' as the last conv layer for Grad-CAM.
+2026-10-03 20:26:35 | src.grad_cam | INFO | Saved Grad-CAM overlay to '/kaggle/working/agrisense-ai/plots/sample_gradcam.png'.
+2026-10-06 16:31:03 | src.grad_cam | INFO | Using 'top_conv' as the last conv layer for Grad-CAM.
+2026-10-06 16:32:03 | src.grad_cam | INFO | Using 'top_conv' as the last conv layer for Grad-CAM.
+2026-10-06 16:53:51 | src.grad_cam | INFO | Using 'top_conv' as the last conv layer for Grad-CAM.
+2026-10-06 17:03:56 | src.grad_cam | INFO | Using 'top_conv' as the last conv layer for Grad-CAM.
+2026-10-06 17:03:58 | src.grad_cam | INFO | Using 'top_conv' as the last conv layer for Grad-CAM.
+2026-10-06 17:18:57 | src.grad_cam | INFO | Using 'top_conv' as the last conv layer for Grad-CAM.
+2026-10-06 17:28:48 | src.grad_cam | INFO | Using 'top_conv' as the last conv layer for Grad-CAM.
+2026-10-06 17:30:41 | src.grad_cam | INFO | Using 'top_conv' as the last conv layer for Grad-CAM.
+2026-10-13 13:17:49 | src.grad_cam | INFO | Using 'top_conv' as the last conv layer for Grad-CAM.

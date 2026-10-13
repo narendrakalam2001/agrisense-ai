@@ -1,0 +1,23 @@
+2026-10-03 15:37:31 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11596117
+2026-10-03 15:37:31 | src.model_training | INFO | === Phase 1: training classification head (base frozen) ===
+2026-10-03 16:18:14 | src.model_training | INFO | === Phase 2: fine-tuning top layers of the base ===
+2026-10-03 17:44:34 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11596117
+2026-10-03 17:44:34 | src.model_training | INFO | === Phase 1: training classification head (base frozen) ===
+2026-10-03 18:47:25 | src.model_training | INFO | === Phase 2: fine-tuning top layers of the base ===
+2026-10-03 18:47:25 | src.model_training | INFO | Unfroze top 30 layers of base model (23/385 layers now trainable).
+2026-10-03 20:23:25 | src.model_training | INFO | Training complete. Best model saved to '/kaggle/working/agrisense-ai/models/efficientnet_plantvillage.h5'.
+2026-10-03 20:26:32 | src.model_training | INFO | Exported TFLite model to '/kaggle/working/agrisense-ai/models/efficientnet_plantvillage.tflite' (12.01 MB).
+2026-10-06 17:03:56 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11578162
+2026-10-06 17:03:58 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11578162
+2026-10-06 17:04:00 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11579188
+2026-10-06 17:04:01 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11579188
+2026-10-06 17:04:03 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11578162
+2026-10-06 17:04:04 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11578162
+2026-10-06 17:04:05 | src.model_training | INFO | Unfroze top 5 layers of base model (4/385 layers now trainable).
+2026-10-06 17:18:57 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11578162
+2026-10-06 17:18:58 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11579188
+2026-10-06 17:19:00 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11579188
+2026-10-06 17:19:01 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11578162
+2026-10-06 17:19:03 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11578162
+2026-10-06 17:19:03 | src.model_training | INFO | Unfroze top 5 layers of base model (4/385 layers now trainable).
+2026-10-11 16:48:06 | src.model_training | INFO | Built model 'agrisense_efficientnetb3' — base_trainable=False, total_params=11596117

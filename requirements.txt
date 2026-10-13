@@ -1,0 +1,30 @@
+# === Day 1: Data + Model Training ===
+tensorflow==2.16.1
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+seaborn==0.13.2
+scikit-learn==1.5.0
+opencv-python==4.10.0.84
+Pillow==10.4.0
+python-dotenv==1.0.1
+jupyter==1.0.0
+nbformat==5.10.4
+
+# === Day 2: RAG + LLM + Chatbot ===
+chromadb==0.5.5
+sentence-transformers==3.0.1
+pypdf==4.3.1
+reportlab==4.2.2
+google-genai==0.3.0
+requests==2.32.3
+langchain==0.2.11
+langchain-community==0.2.10
+
+# === Day 3: API + Frontend + Deploy ===
+fastapi==0.111.1
+uvicorn[standard]==0.30.3
+python-multipart==0.0.9
+streamlit==1.37.0
+pytest==8.3.2
+pytest-mock==3.14.0

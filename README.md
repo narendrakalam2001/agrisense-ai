@@ -173,7 +173,7 @@ Chat interface with suggested-question chips. Gemini decides when to call a tool
 Enter a city → 5-day forecast strip with a **Low / Medium / High** fungal-disease risk per day, rain flags, and the recommended spray days.
 
 ### 📖 Disease Encyclopedia
-![Disease encyclopedia](docs/screenshots/disease_encycopedia.png)
+![Disease encyclopedia](docs/screenshots/disease_encyclopedia.png) 
 
 All 38 classes in expandable cards with pathogen and symptoms in English or Hindi; filter by crop and search by symptom keyword.
 

@@ -17,7 +17,7 @@
 > **Domain:** AgriTech / Computer Vision + RAG + Conversational AI  
 > **Problem:** Multi-class leaf-image classification (38 classes: 26 diseases + 12 healthy) with a bilingual treatment plan and a farmer chatbot  
 > **Dataset:** [New Plant Diseases Dataset (Augmented) — 87,867 images · 38 classes · 14 crops](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) (augmented version of [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease))  
-> **Target stakeholders:** Mahindra AgriTech · Bayer Crop Science India · UPL Limited · State Agriculture Departments — aligned with the Digital Agriculture Mission
+> **Target stakeholders:** Agri-input and agri-tech companies · State Agriculture Departments · Krishi Vigyan Kendras — aligned with the Digital Agriculture Mission
 
 ---
 
@@ -79,6 +79,9 @@ Per-class precision / recall / F1 for **all 38 classes** (including the weakest)
 | 🚀 **FastAPI (Swagger UI)** | Hosted deployment is not available. Local / Docker: `python scripts/run_api.py` → `http://localhost:8000/docs` (The Render Blueprint is included in the repository, but a plan with at least 2 GB RAM is required) |
 | 📓 **EDA Notebook** | [notebooks/agrisense_ai_eda.ipynb](notebooks/agrisense_ai_eda.ipynb) |
 | 🧠 **Model Card** | [models/model_card.json](models/model_card.json) |
+
+
+> ⚠️ Render free tier: the API sleeps when idle — the first request may take 30–60 seconds (cold start).
 
 ---
 
@@ -577,11 +580,11 @@ External services (Gemini, OpenWeatherMap, the embedding model download) are moc
 
 **Narendra Kalam** — MSc Computer Science (Gold Medalist — NASSCOM, Full Stack Data Science + AI)
 
-> Building 20+ industry-level, end-to-end ML systems across all domains.
+> Building 30+ industry-level, end-to-end ML systems across all domains.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/narendra-kalam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/narendra-kalam)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://www.kaggle.com/narendrakalam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=github)](https://narendrakalam2001.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=github)](https://narendrakalam2001.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:kalamnarendra2001@gmail.com)
 
 ### Portfolio Projects
@@ -615,6 +618,10 @@ External services (Gemini, OpenWeatherMap, the embedding model download) are moc
 | 25 | Ride Fare Price Prediction | Mobility / Ride-Hailing | LightGBM | RMSE = $3.81 · R² = 0.8419 · 55M rows |
 | 26 | E-Commerce BI & SQL Analytics | Retail Analytics / BI | SQL + FastAPI + Streamlit | 40 tests passing · 100K orders |
 | 27 | **AgriSense AI** | **AgriTech** | **EfficientNetB3** | **Accuracy = 98.44% · Macro-F1 = 0.9843 · 38 classes** |
+| 28 | AI Loan Underwriting Platform | BFSI / Fintech | XGBoost (credit + fraud) | Credit ROC-AUC = 0.858 · Fraud ROC-AUC = 0.955 · 242 tests |
+| 29 | CineMatch Pro | Entertainment / Media Tech | Hybrid SVD + TF-IDF + SBERT · CLIP · RoBERTa | RMSE = 0.8005 · Sentiment Acc = 94.26% · 56K posters |
+| 30 | DriveGuard AI | Computer Vision / Smart Cities | YOLOv8m + DeepSORT + Gemini RAG | mAP@0.5 = 0.680 · 31 API routes · 364 tests |
+| 31 | MathVision AI | EdTech / Computer Vision | TrOCR-large + SymPy | CER = 0.138 · 350/350 symbolic solved |
 
 ---
 
